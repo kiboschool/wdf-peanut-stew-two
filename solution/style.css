@@ -1,0 +1,20 @@
+body {
+  margin: 0 auto;
+  max-width: 40em;
+  background-color: #eee;
+  color: #566b78;
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
+}
+
+img {
+  padding: 0;
+  border: 2px solid #6B705C;
+}
+
+h1, h2 {
+  font-family: Georgia;
+  padding-top: 1em;
+  color: #333;
+}
